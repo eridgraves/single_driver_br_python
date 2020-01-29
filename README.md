@@ -5,6 +5,7 @@ Modeling a single-driver unported/ported speaker enclosure in Python using a hyb
 Using a single driver in a simple box enclosure:
 - Thiele-Small parameters can be obtained from the driver spec sheet and box dimensions.
 - Physical parameters obtained from constants at STP.
+- We expect that Helmholtz resonance will provide the "bass reflex" boosting SPL of the ported enclosure at low frequencies.
 
 ## Methods
 From Thiele-Small:
@@ -19,3 +20,4 @@ Mechanical : <img src="https://latex.codecogs.com/svg.latex?\Large&space; Z_m=\f
 Electrical : <img src="https://latex.codecogs.com/svg.latex?\Large&space; Z_e=\frac{V}{I}" title="\Large Z_e=\frac{V}{I}" />
 Acoustical : <img src="https://latex.codecogs.com/svg.latex?\Large&space; Z_a=\frac{P}{Q}" title="\Large Z_a=\frac{P}{Q}" />
 
+See handwritten notes for full solution.
