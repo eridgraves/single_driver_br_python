@@ -9,4 +9,4 @@ Using a single driver in a simple box enclosure:
 ## Methods
 From Thiele-Small:
 
-<img src="https://latex.codecogs.com/svg.latex?\Large&space;Z_\text{sp}=\frac{F}{V}=\frac{K}{j\omega}=\frac{1}{j\omegaC_m}" title="\Large \frac{F}{V}=\frac{K}{j\omega}" />
+<img src="https://latex.codecogs.com/svg.latex?\Large&space; Z_\text{sp}=\frac{F}{V}=\frac{K}{j\omega}=\frac{1}{j\omegaC_m}" title="\Large Z_\text{sp}=\frac{F}{V}=\frac{K}{j\omega}=\frac{1}{j\omegaC_m}" />
