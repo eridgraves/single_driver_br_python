@@ -21,3 +21,4 @@ Electrical : <img src="https://latex.codecogs.com/svg.latex?\Large&space; Z_e=\f
 Acoustical : <img src="https://latex.codecogs.com/svg.latex?\Large&space; Z_a=\frac{P}{Q}" title="\Large Z_a=\frac{P}{Q}" />
 
 See handwritten notes for full solution.
+![Handwritten Solution](single_driver_br_solution.jpg)
