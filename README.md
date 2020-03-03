@@ -1,5 +1,7 @@
 # single_driver_br_python
-Modeling a single-driver unported/ported speaker enclosure in Python using a hybrid Thiele-Small model.
+Modeling a single-driver unported/ported speaker enclosure in Python using a hybrid Thiele-Small model. Below is the output of the MatLab script I wrote to solve the same problem.
+![MatLab Output](br_vs_closed_SPL.jpg)
+The goal of this project is to reproduce this using Python (which doesn't require a license) so that I can use it in the future.
 
 ## Setup
 Using a single driver in a simple box enclosure:
